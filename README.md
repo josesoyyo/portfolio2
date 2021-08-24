@@ -16,8 +16,8 @@
 # [Project 2: XXXX]
 
 
-#Skill 
-*HTML CSS JavaScript Java SQL Python Adobe XD Figma*
+# Skill 
+* HTML CSS JavaScript Java SQL Python Adobe XD Figma*
 
-#Experience 
-*UX Designer Internship Comida For Familias, Inc. *
+# Experience 
+* UX Designer Internship Comida For Familias, Inc. *
