@@ -8,6 +8,8 @@
 * Bachelor of Science in Management  (Supply Chain), *Shanghai University of Finance and Economics*, 2016-2019
 
 # [Project 1: XXX]
+![image](https://user-images.githubusercontent.com/88047590/130704352-79cd22e7-1073-47a0-9f9a-0d59be0e493a.png)
+
 
 
 
