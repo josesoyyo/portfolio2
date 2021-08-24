@@ -2,7 +2,7 @@
 *Junior full stack Java developer | HTML CSS JavaScript Java SQL Python Adobe XD Figma | looking for apprenticeship, internship or full time job*
 
 # About me
-*laodding, waiting for exploring.*
+*loadding, waiting for exploring.*
 
 # Education
 * Bachelor of Science in Management  (Supply Chain), *Shanghai University of Finance and Economics*, 2016-2019
